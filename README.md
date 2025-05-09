@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi, I'm Black Nguyen
 
 <!--
 **blackntt/blackntt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Smart Contract Developer passionate about building secure, efficient, and decentralized applications. My work revolves around creating and auditing smart contracts, primarily for EVM-compatible blockchains.
+
+I also bring a solid back-end development background, allowing me to seamlessly integrate smart contracts with scalable server-side systems and APIs.
+
+Currently, I’m focused on contributing to Web3 projects, exploring new blockchain use cases, and building tools that push decentralized tech forward.
